@@ -23,38 +23,44 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "001",
+                    "lat": "43.5331275",
+                    "lon": "-5.6699505",
+                    "type": "Bicicletas públicas sin recarga",
+                    "name": "Aparcadero del Parchís",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://s3.ppllstatics.com/elcomercio/www/multimedia/201912/13/media/cortadas/50992082--1248x830.JPG"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
-                    ]
+                    "description": "Aparcadero de bicicletas públicas sin recarga",
+                    "more": "",
+                    "urls": []
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "002",
+                    "lat": "43.540581",
+                    "lon": "-5.644241",
+                    "type": "Bicicletas públicas sin recarga",
+                    "name": "Aparcadero del Piles",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://movilidadelectrica.com/wp-content/uploads/2022/11/inurba-gijon.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
+                    "description": "Aparcadero de bicicletas públicas sin recarga",
+                    "more": "",
+                    "urls": []
+                },
+                {
+                    "id": "003",
+                    "lat": "43.5331275",
+                    "lon": "-5.7046251",
+                    "type": "Bicicletas públicas con recarga",
+                    "name": "Aparcadero de Cristasa",
+                    "images": [
+                        "https://estaticos-cdn.prensaiberica.es/clip/81022fa4-8bbd-4991-b8ef-2cae389ff3e5_21-9-aspect-ratio_default_0.jpg",
+                        "https://image.ondacero.es/clipping/cmsimages01/2023/06/30/57B7B63D-FB86-459C-8969-639272494957/manana-pondra-marcha-nuevo-servicio-bicicletas-electricas-compartidas_98.jpg?crop=1496,842,x0,y141&width=1900&height=1069&optimize=high&format=webply"
+                    ],
+                    "description": "Aparcadero de bicicletas públicas con recarga",
+                    "more": "",
+                    "urls": []
                 }
             ]
         }
